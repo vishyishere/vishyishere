@@ -1,4 +1,4 @@
-# Hi — I’m Vishn 👋 (vishyishere)
+# Hi — I’m Vishy 👋 (vishyishere)
 
 **Web3 enthusiast • Beginner developer • Mandala artist (Mely)**
 
