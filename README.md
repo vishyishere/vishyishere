@@ -1,6 +1,6 @@
 # Hi — I’m Vishy 👋 (vishyishere)
 
-### Web3 enthusiast • Beginner developer • Mandala artist (Mely)
+### Web3 enthusiast • Beginner developer • Gamer
 
 - 🚀 Building small projects to learn web and Python.  
 - 🌱 Currently learning: JavaScript, React, Python CLI tools, Git/GitHub.  
