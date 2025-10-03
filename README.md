@@ -4,7 +4,7 @@
 
 - 🚀 Building small projects to learn web and Python.  
 - 🌱 Currently learning: JavaScript, React, Python CLI tools, Git/GitHub.  
-- 💬 Ask me about: community building, mandala art, simple web apps.  
+- 💬 Ask me about: community building, Cryto , simple web apps.  
 
 ---
 
