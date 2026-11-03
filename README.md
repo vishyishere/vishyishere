@@ -1,4 +1,4 @@
-# Vishy Gopakumar
+# Vishy
 
 ### Product Builder · Technology Enthusiast · Open-Source Contributor
 
